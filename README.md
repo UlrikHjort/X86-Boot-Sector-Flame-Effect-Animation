@@ -5,7 +5,7 @@ in VGA mode 13h (320×200, 256 colours), using the classic "spreading fire"
 algorithm made famous by the Doom engine.
 
 
-![Screenshot](flame.png)
+![Screenshot](flame.gif)
 
 
 ## Build & run
