@@ -1,6 +1,6 @@
 # X86 Boot Sector Flame Effect
 
-A 512-byte x86 real-mode boot sector that simulates an animated fire/flame
+A 512-byte x86 real-mode boot sector program that simulates an animated fire/flame
 in VGA mode 13h (320×200, 256 colours), using the classic "spreading fire"
 algorithm made famous by the Doom engine.
 
